@@ -1,5 +1,5 @@
 # git_training
-Go Go Anthony! Help me git gud at git.
+Go Go Anthony! Help me git gud at git.HEere on the right line
 
 Anthony is doing great job with Git!!!! 
 
