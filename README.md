@@ -1,2 +1,2 @@
 # git_training
-Go Go Anthony! 
+Go Go Anthony! Help me git gud at git.
